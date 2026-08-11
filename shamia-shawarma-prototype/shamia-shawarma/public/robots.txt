@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shamia-shawarma.example.com/sitemap.xml
